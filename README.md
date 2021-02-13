@@ -1,4 +1,4 @@
-# todo-list
+# todo-list [![Build Status](https://travis-ci.org/XXuain/todo-list-vue.svg?branch=master)](https://travis-ci.org/XXuain/todo-list-vue)
 
 ## Project setup
 ```
