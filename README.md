@@ -1,4 +1,4 @@
-# todo-list [![Build Status](https://travis-ci.org/XXuain/todo-list-vue.svg?branch=master)](https://travis-ci.org/XXuain/todo-list-vue)
+# todo-list [![Build Status](https://travis-ci.org/XXuain/todo-list-vue.svg?branch=master)](https://travis-ci.org/XXuain/todo-list-vue)  [![Coverage Status](https://coveralls.io/repos/github/XXuain/todo-list-vue/badge.svg?branch=master)](https://coveralls.io/github/XXuain/todo-list-vue?branch=master)
 
 ## Project setup
 ```
